@@ -1,0 +1,19 @@
+{
+  "name": "my-cli",
+  "version": "1.0.0",
+  "description": "web-cli",
+  "main": "cli.js",
+  "bin": "cli.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://igit.58corp.com/58dx/dx-cli.git"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "author": "dz",
+  "license": "ISC"
+}

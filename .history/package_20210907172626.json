@@ -1,0 +1,19 @@
+{
+  "name": "my-cli",
+  "version": "1.0.0",
+  "description": "web-cli",
+  "main": "cli.js",
+  "bin": "cli.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zgw88/my-cli.git"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "author": "dz",
+  "license": "ISC"
+}

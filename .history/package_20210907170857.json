@@ -1,0 +1,14 @@
+{
+  "name": "my-cli",
+  "version": "1.0.0",
+  "description": "web-cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "author": "dz",
+  "license": "ISC"
+}
